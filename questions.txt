@@ -1,0 +1,16 @@
+How can you see your remote URLs? 
+- git remote -v
+How can you change a remote URL? What command would you use?
+- git remote set -url origin url
+What is the difference between an HTTPS and SSH URL?
+- different format and you need username and password for https
+Should you add and edit files on GitHub.com for projects in this class?
+-no
+What format should you use for your commit messages?
+- start with a verb and decribe what the commit does
+How do you get the changes in your origin to your local repository? What command do you use?
+- git pull
+How do you stop Git from tracking a certain file in your repository?
+- .gitignore files that list out files that shouldn't be committed
+How do you create a new local copy of your repository? What command do you use?
+-git clone link 
